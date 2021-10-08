@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="xml" Source-language="en-US" target-language="nl-NL" original="PrintVis Customer Portal">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 3070053571 - NamedType 3114637384" size-unit="char" translate="yes">
+          <source>No Frontend Setup found for User %1</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Customer Frontend Mgt - NamedType Text001" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Codeunit 3070053571 - NamedType 3752334001" size-unit="char" translate="yes">
+          <source>No PrintVis User Setup found for User %1</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Customer Frontend Mgt - NamedType Text002" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 2728052310" size-unit="char" translate="yes">
+          <source>Main Catalog</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType RC_Text001" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 814962459" size-unit="char" translate="yes">
+          <source>Shopping Cart</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType RC_Text002" />
+          <target>Open winkelwagen</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 1452659076" size-unit="char" translate="yes">
+          <source>Calculate Price</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType RC_Text003" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 3834536521" size-unit="char" translate="yes">
+          <source>Add to Cart</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType RC_Text004" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 177265842" size-unit="char" translate="yes">
+          <source>Quantity</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType RC_Text005" />
+          <target>Aantal</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 2559143287" size-unit="char" translate="yes">
+          <source>Please make your selection from these options</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType RC_Text006" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 3196839904" size-unit="char" translate="yes">
+          <source>Pricing</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType RC_Text007" />
+          <target>prijzen</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 1283750053" size-unit="char" translate="yes">
+          <source>No price can be calculated due to wrong setup. Please contact your Sales Representative.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType RC_Text008" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 1921446670" size-unit="char" translate="yes">
+          <source>Your price</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType RC_Text009" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 2346099614" size-unit="char" translate="yes">
+          <source>%1 x %2 added to cart</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType RC_Text010" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 1708402997" size-unit="char" translate="yes">
+          <source>Create Quote</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType RC_Text011" />
+          <target>Maak offerte</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 1070706380" size-unit="char" translate="yes">
+          <source>Create Quote failed. Please contact IT</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType RC_Text012" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 1026443335" size-unit="char" translate="yes">
+          <source>Qty</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType Text011" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 2939533186" size-unit="char" translate="yes">
+          <source>Description</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType Text012" />
+          <target>Omschrijving</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 2301836569" size-unit="char" translate="yes">
+          <source>Amount</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType Text013" />
+          <target>Bedrag</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 4214926420" size-unit="char" translate="yes">
+          <source>Total</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType Text014" />
+          <target>Totaal</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 3359886989 - NamedType 3577229803" size-unit="char" translate="yes">
+          <source>Order %1 created.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Codeunit PVS Web2PVS Customer FE Mgt - NamedType Text015" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 4254922682 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Item Details</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Item Details - Property Caption" />
+          <target>Artikeldetails</target>
+        </trans-unit>
+        <trans-unit id="Page 1800266123 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Product Catalog</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Product Catalog - Property Caption" />
+          <target>Catalogus</target>
+        </trans-unit>
+        <trans-unit id="Page 1800266123 - NamedType 3114637384" size-unit="char" translate="yes">
+          <source>Catalog not found</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Product Catalog - NamedType Text001" />
+          <target>Catalogus niet gevonden</target>
+        </trans-unit>
+        <trans-unit id="Page 1800266123 - NamedType 3752334001" size-unit="char" translate="yes">
+          <source>No Picture Available</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Product Catalog - NamedType Text002" />
+          <target>Geen afbeelding beschikbaar</target>
+        </trans-unit>
+        <trans-unit id="Page 1800266123 - Action 4275687932 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Shopping Cart</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Product Catalog - Action OpenCart - Property ToolTip" />
+          <target>Open winkelwagen</target>
+        </trans-unit>
+        <trans-unit id="Page 1800266123 - Action 4275687932 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Shopping Cart</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Product Catalog - Action OpenCart - Property Caption" />
+          <target>Open winkelwagen</target>
+        </trans-unit>
+        <trans-unit id="Page 1004536386 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Customer Frontend</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Role Center - Property Caption" />
+          <target>Klantportaal</target>
+        </trans-unit>
+        <trans-unit id="Page 1004536386 - Control 4259075003 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Role Center</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Role Center - Control Control1160230001 - Property Caption" />
+          <target>Rolcentrum</target>
+        </trans-unit>
+        <trans-unit id="Page 1004536386 - Action 502423214 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Invoices</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Role Center - Action Invoices - Property ToolTip" />
+          <target>Facturen</target>
+        </trans-unit>
+        <trans-unit id="Page 1004536386 - Action 502423214 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Invoices</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Role Center - Action Invoices - Property Caption" />
+          <target>Facturen</target>
+        </trans-unit>
+        <trans-unit id="Page 1004536386 - Action 1077600641 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Other Shipments</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Role Center - Action Other Shipments - Property ToolTip" />
+          <target>Verzendingen</target>
+        </trans-unit>
+        <trans-unit id="Page 1004536386 - Action 1077600641 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Other Shipments</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Role Center - Action Other Shipments - Property Caption" />
+          <target>Verzendingen</target>
+        </trans-unit>
+        <trans-unit id="Page 1004536386 - Action 504042980 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Product Catalog</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Role Center - Action ProductCatalog - Property ToolTip" />
+          <target>Catalogus</target>
+        </trans-unit>
+        <trans-unit id="Page 1004536386 - Action 504042980 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Product Catalog</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Role Center - Action ProductCatalog - Property Caption" />
+          <target>Catalogus</target>
+        </trans-unit>
+        <trans-unit id="Page 1004536386 - Action 2326345770 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Production Orders</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Role Center - Action Production Orders - Property ToolTip" />
+          <target>Productieorders</target>
+        </trans-unit>
+        <trans-unit id="Page 1004536386 - Action 2326345770 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Production Orders</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Role Center - Action Production Orders - Property Caption" />
+          <target>Productieorders</target>
+        </trans-unit>
+        <trans-unit id="Page 1004536386 - Action 4069944308 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Production Shipments</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Role Center - Action Production Shipments - Property ToolTip" />
+          <target>Productieorderleveringen</target>
+        </trans-unit>
+        <trans-unit id="Page 1004536386 - Action 4069944308 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Production Shipments</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Role Center - Action Production Shipments - Property Caption" />
+          <target>Productieorderleveringen</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Shipment</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Property Caption" />
+          <target>Verzending</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes">
+          <source>General</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control General - Property Caption" />
+          <target>Algemeen</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 1594611733 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control DocumentDate - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 2881437613 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control ExternalDocumentNo - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 949215307 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control No - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 681009761 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control OrderNo - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 3037438984 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control PostingDate - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 2120341509 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control PromisedDeliveryDate - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 3669016693 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control QuoteNo - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 3630132196 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control RequestedDeliveryDate - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 2062044181 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control SelltoAddress - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 232284867 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control SelltoAddress2 - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 262739582 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control SelltoCity - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 2747622135 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control SelltoContact - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 3813550138 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control SelltoCustomerName - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 1003934164 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control SelltoPostCode - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 1450094168 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Invoicing</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control Invoicing - Property Caption" />
+          <target>Facturatie</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 55130146 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control BilltoAddress - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 870455544 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control BilltoAddress2 - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 4257164513 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control BilltoCity - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 2011967276 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control BilltoContact - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 357839409 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control BilltoName - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 1725774695 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control BilltoPostCode - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 3097346278 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Shipping</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control Shipping - Property Caption" />
+          <target>Verzending</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 3078595112 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control ShipmentDate - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 3592508345 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control ShiptoAddress - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 2357859015 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control ShiptoAddress2 - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 3811654562 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control ShiptoCity - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 935968840 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control ShiptoCode - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 1512199730 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control ShiptoName - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Control 1116456792 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Control ShiptoPostCode - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Action 1002420131 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Print</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Action Print - Property ToolTip" />
+          <target>Afdrukken</target>
+        </trans-unit>
+        <trans-unit id="Page 2551290123 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Print</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipment - Action Print - Property Caption" />
+          <target>Afdrukken</target>
+        </trans-unit>
+        <trans-unit id="Page 3478944534 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Shipments</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipments - Property Caption" />
+          <target>Verzendingen</target>
+        </trans-unit>
+        <trans-unit id="Page 3478944534 - Control 3630132196 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipments - Control RequestedDeliveryDate - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 3478944534 - Control 2305189990 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipments - Control ShipmentMethodCode - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 3478944534 - Control 477328378 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipments - Control ShippingAgentCode - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 3478944534 - Control 1425397155 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shipments - Control ShiptoContact - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2621508292 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Shopping Cart</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 1 - Property Caption" />
+          <target>Open winkelwagen</target>
+        </trans-unit>
+        <trans-unit id="Page 2621508292 - NamedType 3114637384" size-unit="char" translate="yes">
+          <source>Are you sure you want to empty the complete shopping cart?</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 1 - NamedType Text001" />
+          <target>Weet u zeker dat u de gehele winkelwagen leeg wilt gooien?</target>
+        </trans-unit>
+        <trans-unit id="Page 2621508292 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 1 - Control Description - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2621508292 - Control 501972646 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 1 - Control LineAmount - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2621508292 - Control 949215307 - Property 1295455071" size-unit="char" translate="yes">
+          <source>blankG/L AccountItemCharge (Item)</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 1 - Control No - Property ToolTip" />
+          <target>Leeg Grootboekrekening Artikeltoeslag (Artikel)</target>
+        </trans-unit>
+        <trans-unit id="Page 2621508292 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 1 - Control Quantity - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2621508292 - Control 3625705173 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 1 - Control UnitPrice - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2621508292 - Action 4292030722 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Delete all items from the cart</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 1 - Action ActionEmptyCart() - Property ToolTip" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 2621508292 - Action 4292030722 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Empty Cart</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 1 - Action ActionEmptyCart() - Property Caption" />
+          <target>Winkelwagen leegmaken</target>
+        </trans-unit>
+        <trans-unit id="Page 2621508292 - Action 2160919118 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Continue to next step</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 1 - Action ActionNextStep() - Property ToolTip" />
+          <target>Doorgaan naar volgende stap</target>
+        </trans-unit>
+        <trans-unit id="Page 2621508292 - Action 2160919118 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Continue to next step</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 1 - Action ActionNextStep() - Property Caption" />
+          <target>Doorgaan naar volgende stap</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Customer and Shipment Information</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Property Caption" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - NamedType 3114637384" size-unit="char" translate="yes">
+          <source>Please confirm that you want to place this order.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - NamedType Text001" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 1994964448 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Customer Info</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control Customer - Property Caption" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 1704117941 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Sell-to Address relates to the "Address" field in table "Customer".</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control SellToAddress - Property ToolTip" />
+          <target>Orderklantadres heeft betrekking op het veld "Adres" in tabel "Klant".</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 3853348574 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Sell-to City relates to the "City" field in table "Customer".</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control SellToCity - Property ToolTip" />
+          <target>Orderklant plaats heeft betrekking op het veld "Plaats" in tabel "Klant".</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 1940978433 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Sell-to Country relates to the "Country" field in table "Countries".</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control SellToCounty - Property ToolTip" />
+          <target>Orderklant Land heeft betrekking op het veld "Land" in de tabel "Landen".</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 2553656526 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Sell-to Customer Name relates to the "Name" field in table "Customer".</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control SellToName - Property ToolTip" />
+          <target>Orderklantnaam heeft betrekking op het veld "Naam" in de tabel "Klant".</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 4265725380 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Sell-to Customer Name 2 relates to the "Name 2" field in table "Customer".</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control SellToName2 - Property ToolTip" />
+          <target>Orderklantnaam 2 heeft betrekking op het veld "Naam 2" in tabel "Klant".</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 2158523598 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Own Reference no. from customer</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control YourReference - Property ToolTip" />
+          <target>Eigen referentienr. van de klant</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 3918191228 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Total Order Amount</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control TotalOrderAmount - Property Caption" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 538715564 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Shipment Info</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control Shipment - Property Caption" />
+          <target>Verzending info</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 1524478169 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Ship-to Address relates to the "Address" field in table "Ship-to Address", which is connected to the customer.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control ShipToAddress - Property ToolTip" />
+          <target>Verzendadres heeft betrekking op het veld "Adres" in de tabel "Verzendadres", dat is verbonden met de klant.</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 1585314946 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Ship-to City relates to the "City" field in table "Ship-to Address", which is connected to the customer.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control ShipToCity - Property ToolTip" />
+          <target>Verzendadres plaats heeft betrekking op het veld "Plaats" in de tabel "Verzendadres", dat is verbonden met de klant.</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 2262265896 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Ship-to Code relates to the "Code" field in table "Ship-to Address", which is connected to the customer.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control ShipToCode - Property ToolTip" />
+          <target>Verzendadres heeft betrekking op het veld "Code" in de tabel "Verzendadressen", dat is verbonden met de klant.</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 612936637 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Ship-to Country relates to the "Country" field in table "Countries".</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control ShipToCounty - Property ToolTip" />
+          <target>Verzendadres Land heeft betrekking op het veld "Land" in de tabel "Landen".</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 2138512914 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Ship-to Name relates to the "Name" field in table "Ship-to Address", which is connected to the customer.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control ShipToName - Property ToolTip" />
+          <target>Verzendadres heeft betrekking op het veld "Naam" in de tabel "Verzendadres", dat is verbonden met de klant.</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Control 655605864 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Ship-to Name 2 relates to the "Name 2" field in table "Ship-to Address", which is connected to the customer.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Control ShiptoName2 - Property ToolTip" />
+          <target>Verzendadres 2 heeft betrekking op het veld "Naam 2" in de tabel "Verzendadres", dat is verbonden met de klant.</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Action 2283592687 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Place Order</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Action PlaceOrder - Property ToolTip" />
+          <target>Plaats order</target>
+        </trans-unit>
+        <trans-unit id="Page 3259204909 - Action 2283592687 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Place Order</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shopping Cart 2 - Action PlaceOrder - Property Caption" />
+          <target>Plaats order</target>
+        </trans-unit>
+        <trans-unit id="Page 3987480534 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Lines</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shpt. Subform - Property Caption" />
+          <target>Regels</target>
+        </trans-unit>
+        <trans-unit id="Page 3987480534 - Control 2120341509 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shpt. Subform - Control PromisedDeliveryDate - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 3987480534 - Control 3630132196 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shpt. Subform - Control RequestedDeliveryDate - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 3987480534 - Control 3078595112 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shpt. Subform - Control ShipmentDate - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 3987480534 - Control 1278615121 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shpt. Subform - Control UnitofMeasure - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 3987480534 - Control 3798681774 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Location Code relates to the "Code" field in table "Location".The Location Code can be selected from the Location table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Shpt. Subform - Control VariantCode - Property ToolTip" />
+          <target>Locatiecode heeft betrekking op het veld "Code" in tabel "Locatie". De locatiecode kan worden geselecteerd in de tabel Locatie.</target>
+        </trans-unit>
+        <trans-unit id="Page 2503019077 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Customer Welcome</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Customer Welcome - Property Caption" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Sales Invoices</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - Property Caption" />
+          <target>Verkoopfacturen</target>
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - NamedType 3114637384" size-unit="char" translate="yes">
+          <source>Delete not allowed!</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - NamedType Text001" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - NamedType 3752334001" size-unit="char" translate="yes">
+          <source>Modify not allowed!</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - NamedType Text002" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - Control 3038533218 - Property 1295455071" size-unit="char" translate="yes">
+          <source>A system generated "Entry No." for each ''Web2PV Additional'</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - Control AmountIncludingVAT - Property ToolTip" />
+          <target>Een door het systeem gegenereerd "Volgnr." voor elke '' Web2PV Extra ''</target>
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - Control 3364016704 - Property 1295455071" size-unit="char" translate="yes">
+          <source>A system generated "Entry No." for each ''Web2PV Additional'</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - Control ShiptoCountryRegionCode - Property ToolTip" />
+          <target>Een door het systeem gegenereerd "Volgnr." voor elke '' Web2PV Extra ''</target>
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - Action 821689635 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Invoice</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - Action Invoice - Property ToolTip" />
+          <target>Factuur</target>
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - Action 821689635 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Invoice</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - Action Invoice - Property Caption" />
+          <target>Factuur</target>
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - Action 4125097576 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Card</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - Action Card - Property ToolTip" />
+          <target>Pagina</target>
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Card</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - Action Card - Property Caption" />
+          <target>Pagina</target>
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - Action 1285973296 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Email</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - Action Email - Property ToolTip" />
+          <target>E-mail</target>
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - Action 1285973296 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Email</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - Action Email - Property Caption" />
+          <target>E-mail</target>
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - Action 1002420131 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Print</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - Action Print - Property ToolTip" />
+          <target>Afdrukken</target>
+        </trans-unit>
+        <trans-unit id="Page 2945437252 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Print</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Invoices - Action Print - Property Caption" />
+          <target>Afdrukken</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Production Order</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Property Caption" />
+          <target>Productieorder</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - NamedType 3980716760" size-unit="char" translate="yes">
+          <source>Upload Not Possible</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - NamedType ERR01" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - NamedType 2933315083" size-unit="char" translate="yes">
+          <source>File is Uploaded (%1)</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - NamedType TXT01" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - NamedType 551437638" size-unit="char" translate="yes">
+          <source>Do You Want to Re-Order This Order?</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - NamedType TXT02" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - NamedType 4208708317" size-unit="char" translate="yes">
+          <source>Order Re-Ordered</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - NamedType TXT03" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes">
+          <source>General</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Control General - Property Caption" />
+          <target>Algemeen</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Control 3252776551 - Property 1295455071" size-unit="char" translate="yes">
+          <source>In this field you enter the number of colors for the secondary side of the job. If there is no print on the secondary side, the field is left empty.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Control ColorsBack - Property ToolTip" />
+          <target>In dit veld vult u het aantal kleuren in voor de achterkant van de opdracht. Als er geen afdruk is op de secundaire zijde, wordt het veld leeg gelaten.</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Control 1819573793 - Property 1295455071" size-unit="char" translate="yes">
+          <source>In this field you enter the number of colors for the prima side of the job.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Control ColorsFront - Property ToolTip" />
+          <target>In dit veld vult u het aantal kleuren in voor de voorzijde van de opdracht.</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes">
+          <source>This is a calculated Flow Field. The field can show the sum of the underlying entries, or simply display a text from another table that relates to this field.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Control Description - Property ToolTip" />
+          <target>Dit is een berekend veld. Het veld kan de som van de onderliggende items weergeven, of gewoon een tekst uit een andere tabel weergeven die betrekking heeft op dit veld.</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Control 3732593877 - Property 1295455071" size-unit="char" translate="yes">
+          <source>If specific Finishing Units are set up in your system, you can add the Finishing which does NOT belong to any specific sheet or web through this field, adding the Calculation Units belonging to such Finishing Code to the estimation.Finishing Units belonging to a specific Sheet or Web are to be added to the specific JobItem instead.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Control Finishing - Property ToolTip" />
+          <target>Als er specifieke afwerkingseenheden in uw systeem zijn ingesteld, kunt u via dit veld de afwerkingseenheden die NIET bij een specifiek vel of rol horen, door de prijseenheden die bij die afwerkingscode horen toe te voegen aan de calculatie of rol moeten in plaats daarvan aan het specifieke opdrachtonderdeel worden toegevoegd.</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Control 4223553786 - Property 1295455071" size-unit="char" translate="yes">
+          <source>In this field you may indicate the format of the finished item as you would look at itFormats can be entered either as a Format code (having defined standard formats such as A4, A5, Legal, Letter etc.) or simply entered displaying the format with a multiplicator-sign between the 2 formats (* or x).The unit used for the formats follows your setup for General Units such as mm, cm or Inches. You may however freely combine such formats using cm, mm or , behind the given format. Hence if you are running your setup in Cm (Centimeters), but wish to enter a format as mm*Inches, you can do so by writing 210mm * 11 ¥ in the field.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Control FormatCode - Property ToolTip" />
+          <target>In dit veld kunt u het formaat van het gereedproduct aangeven zoals u het zou zien. Formaten kunnen worden ingevoerd als een formaatcode (met gedefinieerde standaardformaten zoals A4, A5, Legal, Letter enz.). Of gewoon invoeren door het formaat weer te geven met een multiplicator-teken tussen de 2 formaten (* of x). De eenheid die voor de formaten wordt gebruikt, volgt uw instellingen voor algemene eenheden zoals mm, cm of inch. U kunt dergelijke formaten echter vrij combineren met cm, mm of achter het opgegeven formaat. Dus als u uw setup in Cm (Centimeters) staat, maar een formaat als mm * Inches wilt invoeren, kunt u dit doen door 210 mm * 11" in het veld te schrijven.</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Control 267454140 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Is used to identify the Case and Job, and should contain a Headline which will enable you to refind the job for later copying etc.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Control JobName - Property ToolTip" />
+          <target>Wordt gebruikt om de opdracht en de opdrachtregel te identificeren, en zou een titel moeten bevatten waarmee u de opdrachtregel opnieuw kunt zoeken om later te kopiëren enz.</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes">
+          <source>This is a calculated Flow Field. The field can show the sum of the underlying entries, or simply display a text from another table that relates to this field.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Control Quantity - Property ToolTip" />
+          <target>Dit is een berekend veld. Het veld kan de som van de onderliggende items weergeven, of gewoon een tekst uit een andere tabel weergeven die betrekking heeft op dit veld.</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Control 2704404533 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Quantity</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Control Quantity - Property Caption" />
+          <target>Aantal</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Control 616159637 - Property 1295455071" size-unit="char" translate="yes">
+          <source>In this field, price of the job is displayed according to the selected price method - the price may be overwritten directly in the field as Fixed Quote Price for Job</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Control QuotedPrice - Property ToolTip" />
+          <target>In dit veld wordt de prijs van de opdracht weergegeven volgens de geselecteerde prijsmethode - de prijs kan direct in het veld worden overschreven als vaste offerteprijs voor opdracht.</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Control 1006250619 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Re-Order</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Control ReOrder - Property Caption" />
+          <target>Opnieuw bestellen</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Control 3323846971 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Quantity to re-order</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Control Quantitytoreorder - Property Caption" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Action 3156550798 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Re-Order</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Action ActionRe-order - Property ToolTip" />
+          <target>Opnieuw bestellen</target>
+        </trans-unit>
+        <trans-unit id="Page 3605467818 - Action 3156550798 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Re-Order</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Job Card - Action ActionRe-order - Property Caption" />
+          <target>Opnieuw bestellen</target>
+        </trans-unit>
+        <trans-unit id="Page 3989222282 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Shipment</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Shipments - Property Caption" />
+          <target>Verzending</target>
+        </trans-unit>
+        <trans-unit id="Page 3989222282 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Displays Delivery Address from the selected Address code  or it may be manually written (address type Manual)</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Shipments - Control Address - Property ToolTip" />
+          <target>Geeft het afleveradres weer van de geselecteerde adrescode of kan handmatig worden geschreven (adrestype handmatig)</target>
+        </trans-unit>
+        <trans-unit id="Page 3989222282 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Displays Delivery City from the selected Address code  or it may be filled in through selecting a Zip-/Post Code</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Shipments - Control City - Property ToolTip" />
+          <target>Toont de plaats van levering vanaf de geselecteerde adrescode of deze kan worden ingevuld door een postcode te selecteren</target>
+        </trans-unit>
+        <trans-unit id="Page 3989222282 - Control 3993128796 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Displays Delivery Contact Person from the selected Address code  or it may be manually written.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Shipments - Control Contact - Property ToolTip" />
+          <target>Geeft de contactpersoon voor levering weer vanaf de geselecteerde adrescode of kan handmatig worden geschreven.</target>
+        </trans-unit>
+        <trans-unit id="Page 3989222282 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Displays Delivery Name from the selected Address code  or it may be manually written (address type Manual)</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Shipments - Control Name - Property ToolTip" />
+          <target>Toont de leveringsnaam van de geselecteerde adrescode of kan handmatig worden geschreven (adrestype handmatig)</target>
+        </trans-unit>
+        <trans-unit id="Page 3989222282 - Control 3374398455 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Post Code relates to the Code field in table Post Code. The Post Code can be selected from the Post Code table.Displays Delivery Zip-/Post Code from the selected Address code  or it may be manually written, provided the code you write is created within the Post Code Table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Shipments - Control PostCode - Property ToolTip" />
+          <target>Postcode heeft betrekking op het veld Code in tabel Postcode. De postcode kan worden geselecteerd uit de postcode-tabel. Geeft de postcode van de bezorging weer uit de geselecteerde adrescode of kan handmatig worden geschreven, op voorwaarde dat de code die u schrijft, is gemaakt in de postcode-tabel.</target>
+        </trans-unit>
+        <trans-unit id="Page 3989222282 - Control 1847876863 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Insert the actual quantity packed and shipped (or ready for shipment), to have a record of the exact quantity actually shipped to the customer.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Shipments - Control QtyToShip - Property ToolTip" />
+          <target>Voer de werkelijke hoeveelheid die verpakt en verzonden is (of klaar is voor  verzending) in om een ​​record te hebben met de exacte hoeveelheid die daadwerkelijk naar de klant is verzonden.</target>
+        </trans-unit>
+        <trans-unit id="Page 3989222282 - Control 3078595112 - Property 1295455071" size-unit="char" translate="yes">
+          <source>The field automatically fills in the present date as soon as the shipped quantity field is filled in, but you may also state another date in the field</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Shipments - Control ShipmentDate - Property ToolTip" />
+          <target>Het veld vult automatisch de huidige datum in zodra het veld verzonden hoeveelheid is ingevuld, maar u kunt ook een andere datum in het veld opgeven</target>
+        </trans-unit>
+        <trans-unit id="Page 3989222282 - Action 4010542053 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Job</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Shipments - Action Job Card - Property ToolTip" />
+          <target>Opdrachtregel</target>
+        </trans-unit>
+        <trans-unit id="Page 3989222282 - Action 4010542053 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Job</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Prod. Shipments - Action Job Card - Property Caption" />
+          <target>Opdrachtregel</target>
+        </trans-unit>
+        <trans-unit id="Page 727627104 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Production Orders</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Production Orders - Property Caption" />
+          <target>Productieorders</target>
+        </trans-unit>
+        <trans-unit id="Page 727627104 - Control 57370450 - Property 1295455071" size-unit="char" translate="yes">
+          <source>- When the Case reaches a status, where the setup on the Statuscode indicates a case is Archived, this field is set to 'yes/true'.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Production Orders - Control Archived - Property ToolTip" />
+          <target> - Wanneer de opdracht een status bereikt, waarbij de instelling op de statuscode aangeeft dat een opdracht is gearchiveerd, wordt dit veld ingesteld op 'ja / waar'.</target>
+        </trans-unit>
+        <trans-unit id="Page 727627104 - Control 267454140 - Property 1295455071" size-unit="char" translate="yes">
+          <source>The internal and external name of the job. The job name is for example written in the title line of the active windows.Generally, it is a good idea to assign an easily recognizable but meaningful job name to the case. The job name is automatically repeated for each job in the below table.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Production Orders - Control JobName - Property ToolTip" />
+          <target>De interne en externe naam van de opdracht. De opdrachtnaam wordt bijvoorbeeld in de kop van de actieve schermen geschreven. Over het algemeen is het een goed idee om een ​​gemakkelijk herkenbare maar betekenisvolle opdrachtnaam aan de opdracht toe te wijzen. De opdrachtregelomschrijving wordt automatisch voor elke opdracht herhaald in de onderstaande tabel.</target>
+        </trans-unit>
+        <trans-unit id="Page 727627104 - Control 1817760606 - Property 1295455071" size-unit="char" translate="yes">
+          <source>- Displays the date the Case reached Order or Production Order status.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Production Orders - Control OrderDate - Property ToolTip" />
+          <target> - Geeft de datum weer waarop de opdracht de status Order of Productieorder heeft bereikt.</target>
+        </trans-unit>
+        <trans-unit id="Page 727627104 - Control 681009761 - Property 1295455071" size-unit="char" translate="yes">
+          <source>- is drawn automatically from the Numberseries set up for your company, when status progresses to any Order or Production Order Statuscode.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Production Orders - Control OrderNo - Property ToolTip" />
+          <target> - wordt automatisch overgenomen uit de Nr-reeks die voor uw bedrijf is ingesteld, wanneer de status overgaat naar een Order- of Productieorderstatuscode.</target>
+        </trans-unit>
+        <trans-unit id="Page 727627104 - Control 2553656526 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Customer Name.</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Production Orders - Control SellToName - Property ToolTip" />
+          <target>Klantnaam.</target>
+        </trans-unit>
+        <trans-unit id="Page 727627104 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Status is an automatic lookup in another table. The field is not editable. </source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Production Orders - Control Status - Property ToolTip" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Page 727627104 - Control 513339096 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Status</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Production Orders - Control Status - Property Caption" />
+          <target>Status</target>
+        </trans-unit>
+        <trans-unit id="Page 727627104 - Action 2818324089 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Job</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Production Orders - Action Job - Property ToolTip" />
+          <target>Opdrachtregel</target>
+        </trans-unit>
+        <trans-unit id="Page 727627104 - Action 2818324089 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Job</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Production Orders - Action Job - Property Caption" />
+          <target>Opdrachtregel</target>
+        </trans-unit>
+        <trans-unit id="Page 727627104 - Action 3579008013 - Property 1295455071" size-unit="char" translate="yes">
+          <source>Shipment</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Production Orders - Action Shipments - Property ToolTip" />
+          <target>Verzending</target>
+        </trans-unit>
+        <trans-unit id="Page 727627104 - Action 3579008013 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Shipment</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Page PVS Web2PVS Production Orders - Action Shipments - Property Caption" />
+          <target>Verzending</target>
+        </trans-unit>
+        <trans-unit id="Profile 1856351329 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PrintVis Customer Frontend</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Profile PVS CUSTOMER FRONTEND - Property Caption" />
+          <target />
+        </trans-unit>
+        <trans-unit id="Profile 1856351329 - Property 4111922599" size-unit="char" translate="yes">
+          <source>PrintVis Customer Frontend</source>
+          <Note from="Developer" annotates="general" priority="2" note="" />
+          <Note from="Xliff Generator" annotates="general" priority="3" note="Profile PVS CUSTOMER FRONTEND - Property ProfileDescription" />
+          <target />
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

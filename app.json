@@ -1,0 +1,36 @@
+{
+  "id": "4D4AAF6F-5C51-4EEF-AA03-70F7705ED862",
+  "name": "PrintVis Customer Portal",
+  "publisher": "NovaVision Software A/S",
+  "version": "18.6.0.0",
+  "brief": "PrintVis ERP/MIS built specifically for the print industry.",
+  "description": "PrintVis ERP/MIS built specifically for the print industry.",
+  "privacyStatement": "http://www.printvis.com",
+  "EULA": "http://www.printvis.com",
+  "help": "https://support.printvis.com/",
+  "url": "http://www.printvis.com",
+  "logo": "./Logo/PV_logo_240x240px.png",
+  "dependencies": [
+    {
+      "id": "5452f323-059e-499a-9753-5d2c07eef904",
+      "name": "PrintVis",
+      "publisher": "NovaVision Software A/S",
+      "version": "16.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "application": "18.0.0.0",
+  "platform": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 60050,
+      "to": 60982
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://www.printvis.com",
+  "runtime": "8.0",
+  "target": "Cloud",
+  "features": ["TranslationFile", "GenerateCaptions"],
+  "supportedLocales": ["en-US", "da-DK", "de-DE"],
+  "preprocessorSymbols": ["Cloud"]
+}

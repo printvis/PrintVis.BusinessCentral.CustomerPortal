@@ -1,0 +1,31 @@
+{
+    "name": "Company ruleset",
+    "description": "These rules must be respected by all the AL code written within the company.",
+    "rules": [
+        {
+            "id": "AA0001",
+            "action": "Error",
+            "justification": "This diagnostic helps to improve readability. It must be respected in all cases."
+        },
+        {
+            "id": "AL0432",
+            "action": "Hidden"
+        },
+        {
+            "id": "AL0606",
+            "action": "Hidden"
+        },
+        {
+            "id": "AL0603",
+            "action": "Hidden"
+        },
+        {
+            "id": "AL0685",
+            "action": "Hidden"
+        },
+        {
+            "id": "AL0604",
+            "action": "Hidden"
+        }
+    ]
+}
